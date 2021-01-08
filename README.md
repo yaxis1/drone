@@ -1,2 +1,2 @@
-# drone
+# Tello Drone
 Drone programming for tello
