@@ -28,7 +28,7 @@ def getkeyinput():
     if kp.getkey('q'): drone.land() #INCASE DRONE GOES MAD
 
     return [lr,fb,ud,yv]
-    
+
 while True: 
     vals = getkeyinput()
     #sending keyinputs to drone
